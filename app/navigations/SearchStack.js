@@ -1,16 +1,16 @@
 import React from "react";
 import { createStackNavigator } from "@react-navigation/stack";
-import Restaurants from "../screens/Restaurants";
+import Search from "../screens/Search";
 
 const Stack = createStackNavigator();
 
-export default function RestaurantsStack() {
+export default function SearchStack() {
   return (
     <Stack.Navigator>
       <Stack.Screen
-        name="restaurants"
-        component={Restaurants}
-        options={{ title: "Restaurantes" }}
+        name="search"
+        component={Search}
+        options={{ title: "Buscador" }}
       />
     </Stack.Navigator>
   );
