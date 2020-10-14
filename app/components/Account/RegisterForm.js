@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { StyleSheet, View } from "react-native";
 import { Input, Icon, Button } from "react-native-elements";
 import { validateEmail } from "../../utils/validations";
+import { size, isEmpty } from "lodash";
 
 export default function RegisterForm() {
   const [showPassword, setShowPassword] = useState(false);
