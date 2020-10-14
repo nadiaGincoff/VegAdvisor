@@ -4,7 +4,7 @@ import { Button } from "react-native-elements";
 import { useNavigation } from "@react-navigation/native";
 
 export default function UserGuest() {
-  // navigate for stack
+  // navigate for  stack
   const navigation = useNavigation();
 
   return (
@@ -54,6 +54,7 @@ const styles = StyleSheet.create({
   },
   btn: {
     backgroundColor: "#00a680",
+    borderRadius: 12,
   },
   viewBtn: {
     flex: 1,
@@ -61,6 +62,5 @@ const styles = StyleSheet.create({
   },
   btnContainer: {
     width: "70%",
-    borderRadius: 12,
   },
 });
