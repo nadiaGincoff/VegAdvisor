@@ -63,7 +63,6 @@ function screenOptions(route, color) {
       break;
     case "favorites":
       iconName = "heart-outline";
-      s;
       break;
     case "top-restaurants":
       iconName = "star-outline";
