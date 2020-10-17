@@ -18,7 +18,7 @@ export default function Navigation() {
         inicialRouteName="account"
         tabBarOptions={{
           inactiveTintColor: "#646464",
-          activeTintColor: "#00a680",
+          activeTintColor: "#6FCF97",
         }}
         screenOptions={({ route }) => ({
           tabBarIcon: ({ color }) => screenOptions(route, color),

@@ -7,7 +7,7 @@ export default function Login() {
   return (
     <ScrollView>
       <Image
-        source={require("../../../assets/img/5-tenedores-letras-icono-logo.png")}
+        source={require("../../../assets/img/vegandviser-logo-v5.png")}
         resizeMode="contain"
         style={styles.logo}
       />
@@ -54,11 +54,11 @@ const styles = StyleSheet.create({
     marginRight: 10,
   },
   btnRegister: {
-    color: "#00a680",
+    color: "#6FCF97",
     fontWeight: "bold",
   },
   divider: {
-    backgroundColor: "#00a680",
+    backgroundColor: "#6FCF97",
     margin: 40,
   },
 });

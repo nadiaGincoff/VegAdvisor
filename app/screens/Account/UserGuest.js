@@ -53,7 +53,7 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   btn: {
-    backgroundColor: "#00a680",
+    backgroundColor: "#6FCF97",
     borderRadius: 12,
   },
   viewBtn: {

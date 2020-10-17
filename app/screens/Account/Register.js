@@ -12,7 +12,7 @@ export default function Register() {
   return (
     <KeyboardAwareScrollView>
       <Image
-        source={require("../../../assets/img/5-tenedores-letras-icono-logo.png")}
+        source={require("../../../assets/img/vegandviser-logo-v5.png")}
         resizeMode="contain"
         style={styles.logo}
       />

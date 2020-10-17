@@ -113,7 +113,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
   btnRegister: {
-    backgroundColor: "#00a680",
+    backgroundColor: "#6FCF97",
     borderRadius: 12,
   },
   iconRight: {
