@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files (x86)\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add react-native-easy-toast@~1.2.0
+  C:\Program Files (x86)\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add expo-facebook@~8.1.0
 
 PATH: 
   C:\Python27\;C:\Python27\Scripts;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files (x86)\nodejs\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Archivos de programa\nodejs\;C:\Program Files\heroku\bin;;C:\Users\User\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\User\AppData\Local\Yarn\bin;C:\Users\User\AppData\Roaming\npm
@@ -14,7 +14,7 @@ Platform:
   win32 ia32
 
 Trace: 
-  Error: EPERM: operation not permitted, unlink 'C:\Users\User\Documents\Developer\Front-end projects\react-native\vegadvisor\node_modules\@babel\compat-data\node_modules\.bin'
+  Error: EPERM: operation not permitted, unlink 'C:\Users\User\Documents\Developer\Front-end projects\react-native\vegadvisor\node_modules\@babel\helper-compilation-targets\node_modules\.bin'
 
 npm manifest: 
   {
